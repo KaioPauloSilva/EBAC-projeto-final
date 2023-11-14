@@ -17,5 +17,9 @@ Este projeto permite ao usuário carregar um arquivo de dados e realizar anális
 - Upload de arquivo: O usuário pode fazer upload de um arquivo de dados para análise.
 - Análise de dados: O aplicativo usa o PyCaret para realizar várias análises nos dados e disponibiliza para download.
 
-https://github.com/KaioPauloSilva/EBAC_projeto_final/assets/94083264/58c7636f-11dd-4ed7-8c67-512d00351a89
+
+
+
+
+https://github.com/KaioPauloSilva/EBAC-projeto-final/assets/94083264/503f481d-6261-48f2-8170-b05ba67e12ce
 
